@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+header{
+    background-color: #6d8adbc7;
+    text-align: center;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#date{
+    text-align: center;
+}
+#dateForm{
+    background-color: #dae4ff;
+    width: 25%;
+    padding: 35px 20px 50px 50px;
+    float: left;
+}
+#button{
+    text-align: left;
+    margin-left: 70%;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: rgb(63, 63, 170);
+    opacity: .5;
+    color: white;
+}
+#doneToday{
+    margin-bottom: 40px;
+}
+
+input{
+    padding-inline-end: 50%;
+}
+#div{
+    float: right;
+}
